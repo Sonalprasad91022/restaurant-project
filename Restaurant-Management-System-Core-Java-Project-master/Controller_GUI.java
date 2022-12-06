@@ -2,7 +2,7 @@
 /**
  * Write a description of class Controller_GUI here.
  * 
- * @author (your name) 
+ * @author (sonal prasad sahu) 
  * @version (a version number or a date)
  */
 import java.util.*;
