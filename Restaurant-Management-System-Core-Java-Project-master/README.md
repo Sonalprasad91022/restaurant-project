@@ -1,9 +1,6 @@
 # Resutaurant Management System (RMS)
 ## Execute
-
-website :- https://projectworlds.in
-
-Youtube :- https://youtu.be/6iB4-3c0cxc
+this is sonal prasad sahu project there is diffrent aspects which have following works
 Double click RMS_GUI.jar
 ## Login
 You can use test data for the first time. You can add new staff when you log in as manager.
